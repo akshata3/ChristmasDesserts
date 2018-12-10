@@ -1,0 +1,45 @@
+.navbar
+{
+    font-weight:bold;
+
+    background-color: rgba(166,166,166,0.4);
+        text-decoration-color: white;
+        color: white;
+}
+#brownbutterpara
+{
+  font-weight: bold;
+}
+
+#ingredientspara
+{
+
+  font-size: 18px;
+  color: rgb(179, 89, 0);
+
+}
+
+#re
+{
+
+  padding: 50px;
+}
+
+
+#imagepadding
+{
+
+  padding: 50px;
+
+}
+
+#recipename
+{
+
+    font-weight: bold;
+    font-family:cursive;
+    padding-left: 70px;
+    padding-bottom: 20px;
+    font-family: 'Acme', sans-serif;
+
+}
